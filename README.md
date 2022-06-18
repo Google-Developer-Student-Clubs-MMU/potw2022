@@ -12,3 +12,7 @@
   - `uvicorn main:app --reload`
 
 - Open the browser and go to http://localhost:8000/missions/
+
+## Testing the API Routes
+
+- Open the browser and navigate to http://localhost:8000/docs/
